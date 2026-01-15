@@ -9,8 +9,8 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "node dist/stdio.js",
-    "start:http": "node dist/index.js",
+    "start": "node dist/index.js",
+    "start:stdio": "node dist/stdio.js",
     "dev": "tsc --watch"
   },
   "keywords": [
