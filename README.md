@@ -24,7 +24,7 @@ Add to your Claude Desktop config:
       "command": "npx",
       "args": [
         "mcp-remote",
-        "https://YOUR_SERVER_URL/mcp/YOUR_TOKEN"
+        "https://squid-app-xqdzx.ondigitalocean.app/mcp/YOUR_TOKEN"
       ]
     }
   }
